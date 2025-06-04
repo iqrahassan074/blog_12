@@ -10,7 +10,7 @@ export default function Mega() {
         'The journey begins as Frodo sets off to destroy the One Ring, joined by a fellowship of heroes from across Middle-earth.',
       date: 'December 19, 2001 (USA)',
       ImportantDetails: 'Nominated for 13 Academy Awards and won 4. Grossed over $897 million worldwide.',
-      imageUrl: '/images/lol.jpg',
+      imageUrl: '/images/lop.jpg',
       youtubeUrl: 'https://www.youtube.com/watch?v=V75dMMIW2B4',
     },
     {
