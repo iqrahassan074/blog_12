@@ -11,6 +11,7 @@ export default function Mega() {
       date: 'December 19, 2001 (USA)',
       ImportantDetails: 'Nominated for 13 Academy Awards and won 4. Grossed over $897 million worldwide.',
       imageUrl: '/images/lol.jpg',
+      youtubeUrl: 'https://www.youtube.com/watch?v=V75dMMIW2B4',
     },
     {
       id: '2',
@@ -20,6 +21,7 @@ export default function Mega() {
       date: 'December 18, 2002 (USA)',
       ImportantDetails: 'Won 2 Academy Awards. Introduced Gollum as a central character.',
       imageUrl: '/images/lol2.jpg',
+      youtubeUrl: 'https://www.youtube.com/watch?v=LbfMDwc4azU',
     },
     {
       id: '3',
@@ -29,6 +31,7 @@ export default function Mega() {
       date: 'December 17, 2003 (USA)',
       ImportantDetails: 'Won all 11 Academy Awards it was nominated for. Box office: $1.1 billion+.',
       imageUrl: '/images/lol3.jpg',
+      youtubeUrl: 'https://www.youtube.com/watch?v=r5X-hFf6Bwo',
     },
     {
       id: '4',
@@ -38,6 +41,7 @@ export default function Mega() {
       date: 'December 14, 2012 (USA)',
       ImportantDetails: 'First film in the Hobbit trilogy. Box office: $1.017 billion worldwide.',
       imageUrl: '/images/lop.jpg',
+      youtubeUrl: 'https://www.youtube.com/watch?v=SDnYMbYB-nU',
     },
     {
       id: '5',
@@ -47,6 +51,7 @@ export default function Mega() {
       date: 'December 13, 2013 (USA)',
       ImportantDetails: 'Known for its cliffhanger ending. Earned over $958 million worldwide.',
       imageUrl: '/images/lol5.jpg',
+      youtubeUrl: 'https://www.youtube.com/watch?v=OPVWy1tFXuc',
     },
     {
       id: '6',
@@ -56,6 +61,7 @@ export default function Mega() {
       date: 'December 17, 2014 (USA)',
       ImportantDetails: 'Concludes the Hobbit trilogy. Earned $962 million at the box office.',
       imageUrl: '/images/lol6.jpg',
+      youtubeUrl: 'https://www.youtube.com/watch?v=iVAgTiBrrDA',
     },
   ];
 
