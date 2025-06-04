@@ -3,7 +3,7 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "next/navigation"; 
 import CommentSection from "@/components/CommentSection";
-import AuthorCard from "@/components/AuthorCard";
+
 
 const posts = [
   {  
@@ -81,7 +81,7 @@ export default function Post() {
       </div>
 
       <CommentSection postId={post.id} />
-      <AuthorCard />
+   
     </div>
   );
 }
